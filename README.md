@@ -15,5 +15,6 @@ Potem:
 1. Prenesi(clone ali download) celoten repozitorij
 2. Odzipaj, ce je potrebno.
 3. Ko boš imel mapo remove-Questionnaires odpri chrome in pojdi na: chrome://extensions/
-4. Drag and dropaj celotno mapo v chrome, kjer imaš odprt zavihek extensions.
+4. Drag and dropaj mapo remove-Questionnaires v chrome, kjer imaš odprt zavihek extensions.
+5. Počakaj da se extension namesti.
 5. Pojdi na stran e-ucilnice in osveži.
