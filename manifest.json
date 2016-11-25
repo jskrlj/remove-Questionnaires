@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Remove annoying questionnaires",
+  "version": "0.2.0",
+  "description": "Removes stupid questionnaire events from your upcoming events on moodle",
+  "icons": { "16": "FS216.png",
+			 "128": "FS2.png"},
+  "content_scripts": [{
+    
+    "js": ["content.js"],
+    "matches": ["https://ucilnica.fri.uni-lj.si/my/"]
+  }],
+  "browser_action": {
+          "default_icon": {                    // optional
+            "16": "FS216.png"           // optional
+          },
+          "default_title": "Remove questionnaires"      // optional; shown in tooltip
+          
+        }
+  
+  
+ 
+}
