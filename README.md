@@ -3,4 +3,7 @@
 
 Add-on za chrome, ki odstrani moteče dogodke anket iz prihajajočih dogodkov.
 Prej:
-![alt text](before.png "prej")
+![alt text](![alt text](https://raw.githubusercontent.com/jskrlj/remove-Questionnaires/master/before.PNG/ "prej")
+
+Potem:
+![alt text](https://raw.githubusercontent.com/jskrlj/remove-Questionnaires/master/after.png "potem")
